@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">A passionate Full Stack developer from San Fransisco, CA.</h3>
+<h3 align="center">I'm a passionate Ruby on Rails developer from San Fransisco, CA. I love traveling, languages, collecting records, reading poetry, & crafting cocktails.</h3>
 
 - 🌱 I’m currently learning **Python.**
 
