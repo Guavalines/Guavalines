@@ -2,8 +2,7 @@
 <h3 align="center">I'm a passionate Ruby on Rails developer from San Fransisco, CA. I love traveling, learning new languages, collecting records, reading poetry, & crafting cocktails.</h3>
 
 - 🌱 I’m currently learning **Python.**
-
-- 📫 How to reach me **konstrictor@gmail.com**
+- 📫 How to reach me **pickelljoel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
