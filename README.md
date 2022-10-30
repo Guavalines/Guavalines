@@ -2,9 +2,10 @@
 <h3 align="center">I'm a passionate Ruby on Rails developer from San Fransisco, CA. I love traveling, learning new languages, collecting records, reading poetry, & crafting cocktails.</h3>
 
 - 🌱 I’m currently learning **Python.**
-- 📫 How to reach me **pickelljoel@gmail.com**
+<h5 align="left">Reach me:</h5>
+- 📫 email **pickelljoel@gmail.com**
+<h5 align="left">Connect:</h5>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joelpickell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joelpickell" height="30" width="40" /></a>
 </p>
