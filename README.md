@@ -1,5 +1,6 @@
-<div align="center">🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩</div>
-<div align="center">🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩</div>
+![Screen Shot 2022-11-05 at 1 57 21 PM](https://user-images.githubusercontent.com/100665876/200142322-87b09989-3049-4e02-954e-42563d5ebb68.jpeg)
+
+
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center"> I'm a passionate Ruby on Rails developer from San Fransisco, CA. I love traveling, learning new languages, collecting records, reading poetry, & crafting cocktails.</h3>
 🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩
