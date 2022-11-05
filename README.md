@@ -1,4 +1,6 @@
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ![Screen Shot 2022-11-05 at 3 02 10 PM](https://user-images.githubusercontent.com/100665876/200143034-d5668038-0ef3-4a44-928c-a64b6a4fecd3.jpeg)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center"> I'm a passionate Ruby on Rails developer from San Fransisco, CA. I love traveling, learning new languages, collecting records, reading poetry, & crafting cocktails.</h3>
