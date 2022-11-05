@@ -1,6 +1,5 @@
-![Screen Shot 2022-11-05 at 3 10 26 PM](https://user-images.githubusercontent.com/100665876/200143339-7aa25977-acc0-46ed-a77b-8277124d3a1e.jpeg)
-![Screen Shot 2022-11-05 at 3 02 10 PM](https://user-images.githubusercontent.com/100665876/200143034-d5668038-0ef3-4a44-928c-a64b6a4fecd3.jpeg)
-![Screen Shot 2022-11-05 at 2 35 22 PM 2](https://user-images.githubusercontent.com/100665876/200143347-57939056-eff8-4547-adbe-3415ddee12c9.jpeg)
+![Screen Shot 2022-11-05 at 3 25 21 PM](https://user-images.githubusercontent.com/100665876/200143665-7de3545b-5ec8-468a-8a5f-61be83f0cbee.jpeg)
+
 
 
 <h1 align="center">Hi 👋, I'm Joel</h1>
