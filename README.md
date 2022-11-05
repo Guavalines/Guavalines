@@ -1,4 +1,5 @@
-![Screen Shot 2022-11-05 at 1 57 21 PM](https://user-images.githubusercontent.com/100665876/200142322-87b09989-3049-4e02-954e-42563d5ebb68.jpeg)
+
+![Screen Shot 2022-11-05 at 2 35 22 PM](https://user-images.githubusercontent.com/100665876/200142412-529449ba-260f-4f75-91bb-c70e3d3f0cb0.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm Joel</h1>
