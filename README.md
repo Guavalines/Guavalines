@@ -4,4 +4,4 @@
  -->
 
 - [Airbnb clone](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
-- [Front-End](https://github.com/stars/Guavalines/lists/front-end) | small practice projects coded with JavaScript, HTML, & CSS.
+- [Front-End](https://github.com/stars/Guavalines/lists/front-end) | small practice projects coded mainly with JavaScript.
