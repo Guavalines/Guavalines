@@ -5,5 +5,6 @@
 
 - [Airbnb clone](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
 - [Front-End](https://github.com/stars/Guavalines/lists/front-end) | small practice projects coded mainly with JavaScript.
+- [Rails](https://github.com/stars/Guavalines/lists/rails) | multiple small Rails apps to practice principles and best practices.
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guavalines)](https://github.com/guavalines/github-readme-stats)
