@@ -5,7 +5,6 @@
 
 - [Woof Pal](https://github.com/Guavalines/woof_pal) | dog scheduling app.
 - [Airbnb clone](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
-- [Twitter clone](https://github.com/Guavalines/twittter) | basic Twitter clone.
 - [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | small JavaScript projects.
 - [Front-End](https://github.com/stars/Guavalines/lists/front-end) | several deployed apps in GH pages, for practicing front-end.
 - [Rails](https://github.com/stars/Guavalines/lists/rails) | multiple small Rails apps to practice principles and best practices.
