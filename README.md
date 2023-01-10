@@ -8,6 +8,8 @@
 - [ChatApp] | real-time messaging app including Rails Hotwire, Rails 7 Turbo, and Rails 7 Stimulus.
 - [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time bands search form using TURBO FRAMES.
 - E-Commerce Store | using solidus gem.
+- React JS | an app with React.
+- Stripe Payments App | an app that uses stripe.
 - [Movie List](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with friends!
 - Algorithms Repository | algorithm and data structures course in a GitHub repository.
 - [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | small JavaScript projects.
