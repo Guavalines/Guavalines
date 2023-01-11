@@ -6,7 +6,7 @@
 - [Woof Pal](https://github.com/Guavalines/woof_pal) | dog scheduling app.
 - [Airbnb clone](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
 - [ChatApp] | real-time messaging app including Rails Hotwire, Rails 7 Turbo, and Rails 7 Stimulus.
-- [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time bands search form using TURBO FRAMES.
+- [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time bands search form using Turbo Frames & Tailwind.
 - E-Commerce Store | using solidus gem.
 - React JS | an app with React.
 - Stripe Payments App | an app that uses stripe.
