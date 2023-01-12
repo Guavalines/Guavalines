@@ -1,6 +1,6 @@
 ![Guavaline's GitHub stats](https://github-readme-stats.vercel.app/api?username=guavalines&show_icons=true&theme=chartreuse-dark)
 
-![Guavaline's GitHub stats](https://github-stats-alpha.vercel.app/api?username={your-github-username}&cc=000&tc=fff&ic=fff&bc=000)
+![Guavaline's GitHub stats](https://github-stats-alpha.vercel.app/api?username={guavalines}&cc=000&tc=fff&ic=fff&bc=000)
 
 <!-- ![Screen Shot 2022-11-05 at 2 35 22 PM](https://user-images.githubusercontent.com/100665876/205378735-43fc6812-dac5-4975-b585-e8a541a70833.jpeg)
  -->
