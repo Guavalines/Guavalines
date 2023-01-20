@@ -6,7 +6,7 @@
 
 - [Woof Pal](https://github.com/Guavalines/woof_pal) | dog scheduling app.
 - [Airbnb clone](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
-- [ChatZone](https://github.com/Guavalines/ChatZone) | chat app with user to user real time communication using Turbo & Stimulus.
+- [ChatZone](https://github.com/Guavalines/ChatZone) | chat app using Turbo & Stimulus.
 - [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time bands search form using Turbo Frames & Tailwind.
 - [Movie List](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with friends!
 - [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | small JavaScript projects.
