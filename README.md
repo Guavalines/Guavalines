@@ -9,7 +9,6 @@
 - [Movie List](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with friends!
 - [ChatZone](https://github.com/Guavalines/ChatZone) | chat app using Turbo & Stimulus.
 - [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time bands search form using Turbo Frames & Tailwind.
-- [React JS] | several React JS projects.
 - [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | small JavaScript projects.
 - [Front-End](https://github.com/stars/Guavalines/lists/front-end) | several deployed apps in GH pages, for practicing front-end.
 - [Rails](https://github.com/stars/Guavalines/lists/rails) | multiple small Rails apps to practice principles and best practices.
