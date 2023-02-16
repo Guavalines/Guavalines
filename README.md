@@ -13,3 +13,21 @@
 - [Front-End](https://github.com/stars/Guavalines/lists/front-end) | several deployed apps in GH pages, for practicing front-end.
 - [Rails](https://github.com/stars/Guavalines/lists/rails) | multiple small Rails apps to practice principles and best practices.
 
+https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
+https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
+https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
+https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
