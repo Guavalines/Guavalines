@@ -3,7 +3,7 @@
 
 <!-- ![Screen Shot 2022-11-05 at 2 35 22 PM](https://user-images.githubusercontent.com/100665876/205378735-43fc6812-dac5-4975-b585-e8a541a70833.jpeg)
  -->
-# My Work:
+# My Apps:
 
 - [Woof Pal](https://github.com/Guavalines/woof_pal) | dog scheduling app.
 - [Airbnb clone](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
