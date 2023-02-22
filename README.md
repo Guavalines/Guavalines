@@ -10,7 +10,7 @@
 - [Movie List](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with your pals!
 - [ChatZone](https://github.com/Guavalines/ChatZone) | chat with your buds using Turbo & Stimulus.
 - [Bookstore API](https://github.com/Guavalines/Bookstore) | API using React.
-- [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | SEARCH FORM for real-time bands using Turbo Frames & Tailwind.
+- [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time SEARCH FORM using Turbo Frames & Tailwind.
 - [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | JAVASCRIPT projects.
 - [Front-End](https://github.com/stars/Guavalines/lists/front-end) | FRONT-END, deployed apps in GH pages.
 - [Rails](https://github.com/stars/Guavalines/lists/rails) | RUBY ON RAILS apps to practice principles and best practices.
