@@ -7,13 +7,13 @@
 
 - [Woof Pal](https://github.com/Guavalines/woof_pal) | dog scheduling app.
 - [Airbnb clone](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
-- [Movie List](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with friends!
-- [ChatZone](https://github.com/Guavalines/ChatZone) | chat with your friend using Turbo & Stimulus.
-- [Bookstore API](https://github.com/Guavalines/Bookstore) | React CRUD app with Rails 7 API.
-- [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time bands search form using Turbo Frames & Tailwind.
-- [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | small JavaScript projects.
-- [Front-End](https://github.com/stars/Guavalines/lists/front-end) | several deployed apps in GH pages, for practicing front-end.
-- [Rails](https://github.com/stars/Guavalines/lists/rails) | multiple small Rails apps to practice principles and best practices.
+- [Movie List](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with your pals!
+- [ChatZone](https://github.com/Guavalines/ChatZone) | chat with your buds using Turbo & Stimulus.
+- [Bookstore API](https://github.com/Guavalines/Bookstore) | API using React.
+- [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | SEARCH FORM for real-time bands using Turbo Frames & Tailwind.
+- [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | JAVASCRIPT projects.
+- [Front-End](https://github.com/stars/Guavalines/lists/front-end) | FRONT-END, deployed apps in GH pages.
+- [Rails](https://github.com/stars/Guavalines/lists/rails) | RUBY ON RAILS apps to practice principles and best practices.
 
 
 # My Tools:
