@@ -7,7 +7,9 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
+[![Joel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Guavalines&theme=merko
+)](https://github.com/Guavalines
+/github-readme-activity-graph)
 <!-- ![Guavaline's GitHub stats](https://github-readme-stats.vercel.app/api?username=guavalines&show_icons=true&theme=chartreuse-dark)
  -->
 
