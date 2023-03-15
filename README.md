@@ -13,6 +13,7 @@
 - [ChatZone](https://github.com/Guavalines/ChatZone) | chat with your buds using Turbo & Stimulus.
 - [Bookstore API](https://github.com/Guavalines/Bookstore) | API using React.
 - [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time SEARCH FORM using Turbo Frames & Tailwind.
+- [E-Commerce Store](https://github.com/Guavalines/E-Commerce_Store) | E-Commerce Store using Solidus gem and Stripe payment.
 - [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | JAVASCRIPT projects.
 - [Front-End](https://github.com/stars/Guavalines/lists/front-end) | FRONT-END, deployed apps in GH pages.
 - [Rails](https://github.com/stars/Guavalines/lists/rails) | RUBY ON RAILS apps to practice principles and best practices.
