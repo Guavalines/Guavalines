@@ -13,6 +13,8 @@
 
 <!-- ![Screen Shot 2022-11-05 at 2 35 22 PM](https://user-images.githubusercontent.com/100665876/205378735-43fc6812-dac5-4975-b585-e8a541a70833.jpeg)
  -->
+![Guavaline's GitHub stats](https://github-readme-stats.vercel.app/api?username=guavalines&show_icons=true&theme=chartreuse-dark)
+
 
 
 # My Apps:
@@ -52,8 +54,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![Guavaline's GitHub stats](https://github-readme-stats.vercel.app/api?username=guavalines&show_icons=true&theme=chartreuse-dark)
-
 
 
