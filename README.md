@@ -19,7 +19,7 @@
 
 
 
-# My Apps:
+# Selected Projects:
 
 - [Woof Pal](https://github.com/Guavalines/woof_pal) | dog scheduling app.
 - [Airbnb clone](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
