@@ -19,7 +19,7 @@
 # Selected Projects:
 
 - [Woof Pal](https://github.com/Guavalines/woof_pal) | dog scheduling app.
-- [Airbnb clone](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
+- [Share a Dog](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
 - [Movie List](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with your pals!
 - [ChatZone](https://github.com/Guavalines/ChatZone) | chat with your buds using Turbo & Stimulus.
 - [Bookstore API](https://github.com/Guavalines/Bookstore) | API using React.
