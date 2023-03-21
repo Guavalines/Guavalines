@@ -7,6 +7,8 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+![Guavaline's GitHub stats](https://github-readme-stats.vercel.app/api?username=guavalines&show_icons=true&theme=chartreuse-dark)
+
 [![Joel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Guavalines&theme=merko
 )](https://github.com/Guavalines
 /github-readme-activity-graph)
@@ -15,7 +17,7 @@
 
 <!-- ![Screen Shot 2022-11-05 at 2 35 22 PM](https://user-images.githubusercontent.com/100665876/205378735-43fc6812-dac5-4975-b585-e8a541a70833.jpeg)
  -->
-![Guavaline's GitHub stats](https://github-readme-stats.vercel.app/api?username=guavalines&show_icons=true&theme=chartreuse-dark)
+
 
 
 
