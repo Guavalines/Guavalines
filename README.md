@@ -13,7 +13,7 @@
 
 - [WoofPal](https://github.com/Guavalines/woof_pal) | dog scheduling app.
 - [Share-a-Dog](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
-- [Flicklist](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with your pals!
+- [Flicklist](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with your pals! 🍿
 - [ChatZone](https://github.com/Guavalines/ChatZone) | chat with your buds using Turbo & Stimulus.
 - [Bookstore API](https://github.com/Guavalines/Bookstore) | React CRUD app with Rails 7 API using Redux & TypeScript.
 - [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time SEARCH FORM using Turbo Frames & Tailwind.
