@@ -15,7 +15,7 @@
 - [Share a Dog](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
 - [Movie List](https://github.com/Guavalines/rails-watch-list) | share your favorite movies with your pals!
 - [ChatZone](https://github.com/Guavalines/ChatZone) | chat with your buds using Turbo & Stimulus.
-- [Bookstore API](https://github.com/Guavalines/Bookstore) | API using React.
+- [Bookstore API](https://github.com/Guavalines/Bookstore) | API using Rails 7, Redux, & TypeScript.
 - [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time SEARCH FORM using Turbo Frames & Tailwind.
 - [E-Commerce Store](https://github.com/Guavalines/E-Commerce_Store) | E-Commerce Store using Solidus gem and Stripe payment.
 - [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | JAVASCRIPT projects.
