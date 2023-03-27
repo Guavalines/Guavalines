@@ -11,7 +11,7 @@
 
 # Selected Projects:
 
-- [WoofPal](https://github.com/Guavalines/woof_pal) | dog scheduling app.
+- [WoofPal](https://github.com/Guavalines/woof_pal) | create the perfect schedule for your dog.
 - [Share-a-Dog](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
 - [Flicklist](https://github.com/Guavalines/rails-watch-list) | 🍿 share your favorite movies with your pals!
 - [ChatZone](https://github.com/Guavalines/ChatZone) | chat with your buds using Turbo & Stimulus.
