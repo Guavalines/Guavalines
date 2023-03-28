@@ -25,8 +25,11 @@
 - [Front-End](https://github.com/stars/Guavalines/lists/front-end) | FRONT-END, deployed apps in GH pages.
 - [Rails](https://github.com/stars/Guavalines/lists/rails) | RUBY ON RAILS apps to practice principles and best practices.
 
+<!-- 
+# Current Tools: -->
 
-# Current Tools:
+![Joel Pickell copy](https://user-images.githubusercontent.com/100665876/228170019-476e5cd3-d93d-4472-9288-bd18a31ba3ee.jpeg)
+
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
