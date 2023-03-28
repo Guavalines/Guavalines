@@ -10,7 +10,9 @@
 
 
 
-# Selected Projects:
+<!-- # Selected Projects: -->
+![Joel Pickell](https://user-images.githubusercontent.com/100665876/228169021-bbe9982b-b202-45c8-ba61-d767b9141572.jpeg)
+
 
 - [WoofPal](https://github.com/Guavalines/woof_pal) | create the perfect schedule for your dog.
 - [Share-a-Dog](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
