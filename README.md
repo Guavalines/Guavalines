@@ -1,5 +1,5 @@
 <!-- ![GHBG](https://user-images.githubusercontent.com/100665876/227019642-793dd2e3-3dd8-4cd9-9074-0c35bf6d526e.jpeg) -->
-![1](https://user-images.githubusercontent.com/100665876/228166466-b141b8cf-ba7a-4bb5-8c5f-5246e7076457.png)
+![Joel Pickell](https://user-images.githubusercontent.com/100665876/230017640-4f303206-2fd4-4c78-912e-e37d06976a8d.png)
 
 ![Guavaline's GitHub stats](https://github-readme-stats.vercel.app/api?username=guavalines&show_icons=true&theme=chartreuse-dark)
 
