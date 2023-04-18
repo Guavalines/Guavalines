@@ -11,7 +11,7 @@
 
 
 <!-- # Selected Projects: -->
-![Joel Pickell](https://user-images.githubusercontent.com/100665876/228169021-bbe9982b-b202-45c8-ba61-d767b9141572.jpeg)
+![Joel Pickell](https://user-images.githubusercontent.com/100665876/232921070-718d7da5-3696-47ea-b0c2-34587094be3c.jpeg)
 
 
 - [WoofPal](https://github.com/Guavalines/woof_pal) | create the perfect schedule for your dog.
