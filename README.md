@@ -1,11 +1,11 @@
 <!-- ![GHBG](https://user-images.githubusercontent.com/100665876/227019642-793dd2e3-3dd8-4cd9-9074-0c35bf6d526e.jpeg) -->
-![Joel Pickell](https://user-images.githubusercontent.com/100665876/230017640-4f303206-2fd4-4c78-912e-e37d06976a8d.png)
+![2](https://user-images.githubusercontent.com/100665876/232917865-abf36995-a16d-483a-9499-56160a870c67.png)
+![3](https://user-images.githubusercontent.com/100665876/232918130-5d2e304a-9a5b-429f-9968-b61e40b6f3ef.png)
 
 ![Guavaline's GitHub stats](https://github-readme-stats.vercel.app/api?username=guavalines&show_icons=true&theme=chartreuse-dark)
 
 ![Joel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Guavalines&theme=merko
 )
-
 
 
 
