@@ -10,7 +10,9 @@
 
 
 <!-- # Selected Projects: -->
-![SelectedProjects](https://user-images.githubusercontent.com/100665876/232922164-d61d3a27-4cf5-43aa-930e-41b28a042f6d.jpeg)
+![SelectedProjectsBold](https://user-images.githubusercontent.com/100665876/232926515-84e8bc7f-14dc-4729-a274-38735ab4963a.jpeg)
+
+
 
 
 - [WoofPal](https://github.com/Guavalines/woof_pal) | create the perfect schedule for your dog.
@@ -28,7 +30,7 @@
 
 <!-- 
 # Current Tools: -->
-![CurrentTools](https://user-images.githubusercontent.com/100665876/232922193-8dd2f66f-bf55-4255-86fc-85dee06f3016.jpeg)
+![CurrentToolsBold](https://user-images.githubusercontent.com/100665876/232926557-bed51ef6-bd9a-4701-ae68-87bdc3231713.jpeg)
 
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
