@@ -11,7 +11,7 @@
 
 
 <!-- # Selected Projects: -->
-![Joel Pickell copy](https://user-images.githubusercontent.com/100665876/232921636-ae402fcb-ce40-4120-87d7-7617089d7ed4.jpeg)
+![Joel Pickell](https://user-images.githubusercontent.com/100665876/232922014-4e0c94e7-88d6-42c7-b911-3e1c5cbfeedd.jpeg)
 
 
 - [WoofPal](https://github.com/Guavalines/woof_pal) | create the perfect schedule for your dog.
@@ -29,8 +29,8 @@
 
 <!-- 
 # Current Tools: -->
+![Joel Pickell copy](https://user-images.githubusercontent.com/100665876/232921636-ae402fcb-ce40-4120-87d7-7617089d7ed4.jpeg)
 
-![Joel Pickell copy](https://user-images.githubusercontent.com/100665876/228170019-476e5cd3-d93d-4472-9288-bd18a31ba3ee.jpeg)
 
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
