@@ -18,7 +18,7 @@
 - [Share-a-Dog](https://github.com/Guavalines/share_a-dog) | Airbnb...but with dogs!
 - [Tweeter](https://github.com/Guavalines/Tweeter) | Twitter Clone in Rails 7.
 - [Flicklist](https://github.com/Guavalines/rails-watch-list) | 🍿 share your favorite movies with your pals!
-- [Personal Blog](https://github.com/Guavalines/my_own_blog_app) Personal blog built with Rails 7.
+- [Personal Blog](https://github.com/Guavalines/my_own_blog_app) | 😎 Personal blog built with Rails 7.
 - [ChatZone](https://github.com/Guavalines/ChatZone) | chat with your buds using Turbo & Stimulus.
 - [Bookstore API](https://github.com/Guavalines/Bookstore) | React CRUD app with Rails 7 API using Redux & TypeScript.
 - [Turbo Search](https://github.com/Guavalines/Turbo_Search_Form) | real-time SEARCH FORM using Turbo Frames & Tailwind.
