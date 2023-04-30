@@ -27,7 +27,7 @@
 - [Python](https://github.com/stars/Guavalines/lists/python) | 🐍 various PYTHON.
 - [JavaScript](https://github.com/stars/Guavalines/lists/javascript) | various JAVASCRIPT.
 - [Front-End](https://github.com/stars/Guavalines/lists/front-end) | various FRONT-END, deployed apps in GH pages.
-- [Rails](https://github.com/stars/Guavalines/lists/rails) | various RUBY ON RAILS; apps to practice principles and best practices.
+- [Ruby on Rails](https://github.com/stars/Guavalines/lists/rails) | various RUBY ON RAILS; apps to practice principles and best practices.
 
 <!-- 
 # Current Tools: -->
