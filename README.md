@@ -4,7 +4,7 @@
 
 ![Guavaline's GitHub stats](https://github-readme-stats.vercel.app/api?username=guavalines&show_icons=true&theme=blue-green&show_icons=true)
 
-![Joel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Guavalines&theme=react-dark)
+
 
 
 
